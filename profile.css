@@ -1,0 +1,12 @@
+.profile-body {
+  background-color: rgb(255, 124, 124);
+}
+.form-div {
+  background-color: rgb(251, 251, 251);
+  height: 185%;
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 195px;
+  padding: 30px;
+  border-radius: 7px;
+} 

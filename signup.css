@@ -1,0 +1,157 @@
+p {
+  font-family: Roboto, Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.bestguy-body {
+  /* This style below will be inherited */
+  font-family: Roboto, Arial;
+  margin: 0;
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 24px;
+  background-color: rgb(255, 124, 124);
+}
+.swipe-up {
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 175px;
+  color: white;
+}
+.swipe-up-h1 {
+  font-size: 75px;
+}
+.create-acc {
+  margin-left: 43%;
+  margin-bottom: 60px;
+}
+.create-acc-butt {
+  background-color: rgba(245, 84, 84, 0.911);
+  border-radius: 45px;
+  border-color: white;
+  height: 50px;
+  color: white;
+}
+.course{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding: 100px;
+  color: white;
+}
+.swipe-up-find {
+  color: rgb(178, 176, 176);
+}
+.h1{
+  font-size: 36px;
+  font-weight: 600;
+}
+.p{
+  color: #777;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 22px;
+  padding: 10px;
+}
+.row{
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+.course-col{
+  flex-basis: 31%;
+  background: #fff3f3;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  padding: 20px 12px;
+  box-sizing: border-box;
+  transition: 0.5s;
+}
+.h3{
+  text-align: center;
+  font-weight: 600;
+  margin: 10px 0;
+}
+.course-col:hover{
+  box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
+}
+.bestguy-body{
+  background-color: rgb(255, 124, 124);
+}
+.signup-div {
+  background-color: white;
+  width: 25px;
+  height: 480px;
+  margin-top: 35px;
+  margin-left: 25px;
+  border-radius: 15px;
+  margin: auto;
+  width: 28%; 
+  border: #ffd6d6;
+  padding: 45px;
+}
+.h1-create {
+  margin-left: 55px;
+}
+.signup-p {
+  color: rgb(59, 59, 59);
+  font-size: medium;
+  font-weight: 300;
+}
+.div-signin-opt {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 17px;
+}
+.cont-div {
+  border-radius: 25px;
+  border-color: #ab8d8d;
+  height: 40px;
+  width: 320px;
+  margin-top: 20px;
+  margin-bottom: 9px;
+  color: white;
+  background-color: blue;
+}
+.logface-div{
+  border-radius: 25px;
+  font-size: 18px;
+  border-color: #d5d5d5;
+  height: 40px;
+  width: 320px;
+  margin-top: 7px;
+  margin-bottom: 9px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+.logphone-div {
+  border-radius: 25px;
+  font-size: 18px;
+  border-color: #d5d5d5;
+  height: 40px;
+  width: 320px;
+  margin-top: 7px;
+  margin-bottom: 9px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+.log-in{
+  margin-left: 105px;
+  margin-top: 15px;
+  color: blue;
+}
+.get-div {
+  color: black;
+  margin-bottom: 5px;
+  margin-left: 110px;
+  margin-top: 15px;
+  font-size: larger;
+}
+.app-google {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+  margin-left: 20px;
+}
